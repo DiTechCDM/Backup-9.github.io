@@ -209,7 +209,7 @@ button {
     display: inline-block;
     width: 40%;
     padding: 2%;
-    height: 190px;
+    height: auto;
     vertical-align: top;
     border-bottom: 0.6px solid rgba(255, 255, 255, 0.2);
     text-align: left;
